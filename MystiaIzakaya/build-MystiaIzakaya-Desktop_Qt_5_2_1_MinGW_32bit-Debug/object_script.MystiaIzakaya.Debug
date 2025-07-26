@@ -1,0 +1,12 @@
+INPUT(
+./debug\character.o
+./debug\drinkwidget.o
+./debug\ingredient.o
+./debug\log.o
+./debug\main.o
+./debug\mainwidget.o
+./debug\mainwindow.o
+./debug\moc_drinkwidget.o
+./debug\moc_mainwidget.o
+./debug\moc_mainwindow.o
+);

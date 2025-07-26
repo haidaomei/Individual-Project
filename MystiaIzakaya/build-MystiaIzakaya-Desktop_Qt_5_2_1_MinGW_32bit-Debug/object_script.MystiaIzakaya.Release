@@ -1,0 +1,12 @@
+INPUT(
+./release\character.o
+./release\drinkwidget.o
+./release\ingredient.o
+./release\log.o
+./release\main.o
+./release\mainwidget.o
+./release\mainwindow.o
+./release\moc_drinkwidget.o
+./release\moc_mainwidget.o
+./release\moc_mainwindow.o
+);
